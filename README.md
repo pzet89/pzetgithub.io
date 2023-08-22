@@ -5,13 +5,13 @@ Selling stuff website
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Free Website</title>
+    <Amatilosi Trading>Amatilosi Trading Website</Low cost stuff>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>Welcome to My Free Website</h1>
-    </header>
+    <headerAffordable Everything>
+        <h1>Welcome to Amatilosi trading</h1>
+    </Affordable Everything>
     <nav>
         <ul>
             <li><a href="#">Home</a></li>
@@ -27,7 +27,7 @@ Selling stuff website
         </section>
     </main>
     <footer>
-        <p>&copy; 2023 Your Name. All rights reserved.</p>
+        <p>&copy; 2023 Amatilosi Trading. All rights reserved.</p>
     </footer>
 </body>
 </html>
