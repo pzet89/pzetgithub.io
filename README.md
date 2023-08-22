@@ -23,7 +23,7 @@ Selling stuff website
     <main>
         <section>
             <h2>About Us</h2>
-            <p>This is a simple and free website created using HTML and CSS.</p>
+            <p>Amatilosi is a website where you can get everthing for low low prices HTML and CSS.</p>
         </section>
     </main>
     <footer>
