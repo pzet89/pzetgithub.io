@@ -23,7 +23,7 @@ Selling stuff website
     <main>
         <section>
             <h2>About Us</h2>
-            <p>Amatilosi is a website where you can get everthing for low low prices HTML and CSS.</p>
+            <p>Amatilosi is a website where you can get everthing for low low prices .</p>
         </section>
     </main>
     <footer>
@@ -31,53 +31,3 @@ Selling stuff website
     </footer>
 </body>
 </html>
-/* Reset some default styles */
-body, h1, h2, p, ul, li {
-    margin: 0;
-    padding: 0;
-}
-
-/* Basic styling */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
-}
-
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem;
-    text-align: center;
-}
-
-nav {
-    background-color: #666;
-    color: #fff;
-    text-align: center;
-    padding: 0.5rem;
-}
-
-nav ul {
-    list-style: none;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #fff;
-}
-
-main {
-    padding: 1rem;
-}
-
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 0.5rem;
-}
