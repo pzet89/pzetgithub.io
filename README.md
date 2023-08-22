@@ -27,7 +27,7 @@
         <section class="services">
             <h2>Our Services</h2>
             <div class="Branding">
-                <img src="service1.jpg" alt="Branding">
+                <img src="images" alt="Branding">
                 <h3>Indoor Signage</h3>
                 <p>We create stunning indoor signs that enhance your space.</p>
             </div>
